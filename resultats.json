@@ -1,0 +1,24 @@
+[
+  {
+    "modele": "sans_ponderation",
+    "precision": 0.963,
+    "rappel": 0.6933,
+    "AUPRC": 0.7898,
+    "AUROC": 0.9889,
+    "TP": 52,
+    "FP": 2,
+    "FN": 23,
+    "TN": 56776
+  },
+  {
+    "modele": "avec_ponderation",
+    "precision": 0.7532,
+    "rappel": 0.7733,
+    "AUPRC": 0.7833,
+    "AUROC": 0.9905,
+    "TP": 58,
+    "FP": 19,
+    "FN": 17,
+    "TN": 56759
+  }
+]
