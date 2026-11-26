@@ -1,0 +1,13 @@
+{
+  "dataset": "handbook",
+  "lignes": 1754155,
+  "colonnes": 9,
+  "fraudes": 14681,
+  "taux_fraude_pourcent": 0.8369,
+  "valeurs_manquantes": 0,
+  "lignes_dupliquees": 0,
+  "montant_median_normal": 44.49,
+  "montant_median_fraude": 72.22,
+  "montant_max": 2628.0,
+  "duree_heures": 4392.0
+}

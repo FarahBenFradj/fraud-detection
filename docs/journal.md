@@ -22,3 +22,5 @@
 - ULB explorée : résumé dans docs/datasets/ulb_resume.json, graphiques P4-ulb-desequilibre et P4-ulb-montants.
 - Capture : P4-01-ulb-resume.png.
 - Dataset candidat 2 : données simulées du Handbook (téléchargées dans data/handbook_raw, hors Git).
+- Handbook (données simulées) : un fichier .pkl par jour, convertis en un CSV avec src/convert_handbook.py. Sécurité : un pickle peut exécuter du code, conversion faite une seule fois depuis le dépôt officiel de l'ULB.
+- Captures : P4-02-handbook-colonnes.png, P4-03-handbook-resume.png.
