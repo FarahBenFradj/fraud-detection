@@ -16,3 +16,9 @@
 - Remise à zéro de v2 : anciens scripts rangés dans v1_baseline/, dossiers src/, docs/, captures/ créés.
 - Vérification sécurité : .env.example ne contient aucun vrai secret, .env n'est pas suivi par Git.
 - Prochaines captures : P0-04-wsl-version, P0-05-kibana-connecte, P0-06-env-example.
+
+## 2026-11-26, Phase 4 : données
+- Script src/explore_dataset.py : résumé chiffré + 2 graphiques par dataset.
+- ULB explorée : résumé dans docs/datasets/ulb_resume.json, graphiques P4-ulb-desequilibre et P4-ulb-montants.
+- Capture : P4-01-ulb-resume.png.
+- Dataset candidat 2 : données simulées du Handbook (téléchargées dans data/handbook_raw, hors Git).

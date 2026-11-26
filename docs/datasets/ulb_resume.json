@@ -1,0 +1,13 @@
+{
+  "dataset": "ulb",
+  "lignes": 284807,
+  "colonnes": 31,
+  "fraudes": 492,
+  "taux_fraude_pourcent": 0.1727,
+  "valeurs_manquantes": 0,
+  "lignes_dupliquees": 1081,
+  "montant_median_normal": 22.0,
+  "montant_median_fraude": 9.25,
+  "montant_max": 25691.16,
+  "duree_heures": 48.0
+}
